@@ -4,6 +4,7 @@ Modules
 
 **lfactor.py** : Returns the largest prime factor of an integer.
 
-**say.py** : Usses pyttx to enunciate strings.
+**say.py** : Usses [pyttx](https://pypi.python.org/pypi/pyttsx) to enunciate strings.
 
 	python say.py "Hello World!"
+
