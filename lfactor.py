@@ -1,3 +1,8 @@
+'''
+	Developed by : Himanshu Mishra
+	Email : himanshu2014iit@gmail.com
+'''
+
 def isPrime(no):
 	if no==2:
 		return True
